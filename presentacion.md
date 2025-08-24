@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Abril Teiga.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta jugar al tenis. 
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es XOR. 
